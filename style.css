@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(240, 194, 232);
+    background-color: rgb(150, 36, 131);
 }
 #titulo{
     text-align: center;
@@ -15,4 +15,7 @@ body{
     width: 50%;
     margin: 20px;
     padding: 5px;
+}
+.titulo {
+    background-image: linear-gradient(rgb(235, 87, 190), rgb(231, 187, 217) );
 }
