@@ -18,4 +18,5 @@ body{
 }
 .titulo {
     background-image: linear-gradient(rgb(235, 87, 190), rgb(231, 187, 217) );
+    color: crimson;
 }
